@@ -1,0 +1,19 @@
+{
+    "name": "first_express_server",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.16.4"
+    },
+    "devDependencies": {
+        "eslint": "^5.15.1",
+        "eslint-config-prettier": "^4.1.0",
+        "eslint-plugin-import": "^2.16.0",
+        "eslint-plugin-prettier": "^3.0.1",
+        "prettier": "^1.16.4"
+    },
+    "prettier": {
+        "tabWidth": 4
+    }
+}
